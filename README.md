@@ -1,6 +1,7 @@
 Portfolio Website
 
 • About
+
 This is a clean, responsive portfolio website for Jerhan Bartasan, a Computer Science graduate. It showcases skills, education, and experience with smooth animations.
 
 • Technologies Used
