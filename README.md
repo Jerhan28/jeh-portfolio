@@ -1,5 +1,8 @@
 # Portfolio Website
 
+**live demo click the link**
+https://jeh-devs.staticrun.app/
+
 ## About
 This is a clean, responsive portfolio website for Jerhan Bartasan, a Computer Science graduate. It showcases skills, education, and experience with smooth animations.
 
@@ -45,7 +48,3 @@ The website can be hosted on:
 - Netlify
 - Vercel
 - Any static web hosting service
-
-## Live Demo!
-
-👉🏻 https://jeh-devs.staticrun.app/
