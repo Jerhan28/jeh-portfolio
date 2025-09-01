@@ -1,6 +1,6 @@
 # Portfolio Website
 
-**live demo click the link**
+**live demo!**
 https://jeh-devs.staticrun.app/
 
 ## About
